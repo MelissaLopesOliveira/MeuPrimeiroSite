@@ -1,0 +1,15 @@
+body{
+    background-color: #4682B4;
+    font-family: Arial;
+    font-size: 12pt;
+}
+h1{
+    text-align: center;
+}
+figure{
+    text-align: center;
+}
+img{
+    border: 5px double black;
+    width: 30%;
+}
