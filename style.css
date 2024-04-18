@@ -61,7 +61,6 @@ body{
     margin: 15;
     padding: 15;
   }
-  
   /* Mudar de cor ao passar o mouse */
   .topnav a:hover {
     background-color: #ddd;
