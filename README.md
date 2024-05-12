@@ -9,3 +9,6 @@ Eu desenvolvi esse site para aplicar os conceitos básicos de HTML e CSS que eu 
 🔎 Todo o conteúdo do site foi tirado do [W3schools](https://www.w3schools.com/).
 
 Esse é um website simples feito para praticar o que eu fui aprendendo, e seu conteúdo consiste em explicar de forma simples o que é HTML, CSS e JavaScript e quais são suas funções.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
